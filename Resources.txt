@@ -1,0 +1,2 @@
+https://www.coursera.org/specializations/machine-learning-introduction
+https://medium.com/@atanudan/exploratory-data-analysis-eda-in-python-893f963cc0c0
