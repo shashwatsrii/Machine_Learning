@@ -1,3 +1,4 @@
 https://www.coursera.org/specializations/machine-learning-introduction
 https://medium.com/@atanudan/exploratory-data-analysis-eda-in-python-893f963cc0c0
 https://www.analyticsvidhya.com/blog/2021/06/eda-exploratory-data-analysis-with-python/
+https://towardsdatascience.com/exploratory-data-analysis-visual-790990f64c7c
