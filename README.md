@@ -6,3 +6,4 @@ Some of the models I implemented were:
 1. Salary - Experience Model using Linear Regression.
 2. Loan Data Analysis : Dataset from Kaggle for EDA.
 3. Titanic Dataset : Randomly picked up for EDA.
+4. Salary_position Dataset : Randomly Picked up for Polynomial Regression.
