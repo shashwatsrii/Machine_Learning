@@ -12,3 +12,4 @@ Some of the datasets I implemented were:
 2. Loan Data Analysis : Dataset from Kaggle for EDA.
 3. Titanic Dataset : Randomly picked up for EDA.
 4. Salary_position Dataset : Randomly Picked up for Polynomial Regression.
+5. Iris Dataset : Popular UCI ML Dataset for Logistic Regression.
