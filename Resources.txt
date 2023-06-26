@@ -10,6 +10,7 @@ https://www.javatpoint.com/artificial-neural-network
 https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
 https://medium.com/optuna/using-optuna-to-optimize-tensorflow-hyperparameters-57b6d4d316a2
 https://www.datacamp.com/tutorial/decision-tree-classification-python
+https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/
 
 :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: 
 
