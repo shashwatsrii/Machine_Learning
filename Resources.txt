@@ -7,6 +7,9 @@ https://medium.com/analytics-vidhya/what-is-correlation-4fe0c6fbed47#:~:text=Cor
 https://www.analyticsvidhya.com/blog/2021/04/exploratory-analysis-using-univariate-bivariate-and-multivariate-analysis-techniques/
 https://scikit-learn.org/stable/supervised_learning.html#supervised-learning
 https://www.javatpoint.com/artificial-neural-network
+https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
+https://medium.com/optuna/using-optuna-to-optimize-tensorflow-hyperparameters-57b6d4d316a2
+https://www.datacamp.com/tutorial/decision-tree-classification-python
 
 :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: 
 
