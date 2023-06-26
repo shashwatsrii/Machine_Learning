@@ -6,6 +6,7 @@ https://medium.com/analytics-vidhya/tutorial-exploratory-data-analysis-eda-with-
 https://medium.com/analytics-vidhya/what-is-correlation-4fe0c6fbed47#:~:text=Correlation%2C%20statistical%20technique%20which%20determines,the%20association%20between%20different%20variables.
 https://www.analyticsvidhya.com/blog/2021/04/exploratory-analysis-using-univariate-bivariate-and-multivariate-analysis-techniques/
 https://scikit-learn.org/stable/supervised_learning.html#supervised-learning
+https://www.javatpoint.com/artificial-neural-network
 
 :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: 
 
