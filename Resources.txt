@@ -11,6 +11,8 @@ https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
 https://medium.com/optuna/using-optuna-to-optimize-tensorflow-hyperparameters-57b6d4d316a2
 https://www.datacamp.com/tutorial/decision-tree-classification-python
 https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/
+https://www.kaggle.com/code/stuarthallows/using-xgboost-with-scikit-learn
+https://www.analyticsvidhya.com/blog/2021/10/understanding-transfer-learning-for-deep-learning/
 
 :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: 
 
