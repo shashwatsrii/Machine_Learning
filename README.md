@@ -13,8 +13,8 @@ Some of the datasets I implemented were:
 3. Titanic Dataset : Randomly picked up for EDA.
 4. Salary_position Dataset : Randomly Picked up for Polynomial Regression.
 5. Iris Dataset : Popular UCI ML Dataset for Logistic Regression.
-
-
+6. Pima Indians Diabetes Database : Owned by National Institute Diabetes and Digestive and Kidney Diseases
+   
 :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: 
 
 Youtube Channels I referred to :
