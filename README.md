@@ -32,3 +32,4 @@ Platforms I used during my journey:
 4. Kaggle
 5. Machine Learning Mastery
 6. Geeks for Geeks
+7. Towards Data Science
