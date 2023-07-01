@@ -13,6 +13,8 @@ https://www.datacamp.com/tutorial/decision-tree-classification-python
 https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/
 https://www.kaggle.com/code/stuarthallows/using-xgboost-with-scikit-learn
 https://www.analyticsvidhya.com/blog/2021/10/understanding-transfer-learning-for-deep-learning/
+https://www.geeksforgeeks.org/handwritten-digit-recognition-using-neural-network/
+https://medium.com/analytics-vidhya/want-to-save-and-reuse-a-model-later-d48398584695
 
 :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: 
 
