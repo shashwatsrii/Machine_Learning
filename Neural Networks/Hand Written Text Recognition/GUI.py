@@ -9,7 +9,7 @@ window.title("Handwritten digit recognition")
 l1 = Label()
 
 def MyProject():
-    global img, l1
+    global l1
 
     # Open file dialog to select an image file
     filepath = filedialog.askopenfilename(title="Select Image", filetypes=[("Image files", "*.jpg;*.jpeg;*.png")])
@@ -32,13 +32,11 @@ def MyProject():
         pred = predict(Theta1, Theta2, vec / 255)
 
         # Displaying the result
-        # l1.config(text="Digit = " + str(pred[0]), font=('Algerian', 20))
-        # l1.place(x=230, y=420)
-        print(pred[0])
+        l1.config(text="Digit = " + str(pred[0]), font=('Algerian', 20))
+        l1.place(x=230, y=420)
 
 def clear_widget():
-    global img, l1
-    img.destroy("all")
+    global l1
     l1.destroy()
 
 # Label
@@ -46,10 +44,6 @@ L1 = Label(window, text="Handwritten Digit Recognition", font=('Algerian', 25), 
 L1.place(x=35, y=10)
 
 # Button to select an image file
-# b1 = Button(window, text="2. Select Image", font=('Algerian', 15), bg="orange", fg="black", command=MyProject)
-# b1.place(x=320, y=370)
-
-# Button to clear the result
 b2 = Button(window, text="1. Clear Result", font=('Algerian', 15), bg="white", fg="red", command=clear_widget)
 b2.place(x=120, y=370)
 
@@ -63,13 +57,13 @@ def display_image():
         image_label.config(image=img)
         image_label.image = img
 
-image_label = Label(window, width=350, height=290, bg='black')
+image_label = Label(window, width=50, height=90, bg='black')
 image_label.place(x=120, y=70)
 
 select_image_button = Button(window, text="Select Image", font=('Algerian', 15), bg="orange", fg="black", command=MyProject)
 select_image_button.place(x=120, y=370)
-predict_image_button = Button(window, text="Show Image", font=('Algerian', 15), bg="orange", fg="black", command=display_image)
-select_image_button.place(x=120, y=470)
+# predict_image_button = Button(window, text="Show Image", font=('Algerian', 15), bg="orange", fg="black", command=display_image)
+# predict_image_button.place(x=120, y=470)
 
 window.geometry("600x500")
 window.mainloop()
