@@ -16,6 +16,8 @@ Some of the datasets I implemented were:
 4. Salary_position Dataset : Randomly Picked up for Polynomial Regression.
 5. Iris Dataset : Popular UCI ML Dataset for Logistic Regression.
 6. Pima Indians Diabetes Database : Owned by National Institute Diabetes and Digestive and Kidney Diseases
+7. MNIST Handwritten Digit Dataset.
+8. Telco - Customer Churn Dataset.
    
 :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: 
 
@@ -34,5 +36,7 @@ Platforms I used during my journey:
 5. Machine Learning Mastery
 6. Geeks for Geeks
 7. Towards Data Science
+8. Coursera
+9. Data Flair
 
 To be continued...
