@@ -1,4 +1,4 @@
-# Machine_Learning_Internship
+# Machine_Learning
 
 
 Machine Learning Models Implementations and Files i studied during my Summer Internship at Amrita Vishwa Vidyapeetham. The major skills I learned during the internship were the Fundamentals of Machine Learning, Data Analysis and MLOps.
