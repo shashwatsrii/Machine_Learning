@@ -15,6 +15,7 @@ https://www.kaggle.com/code/stuarthallows/using-xgboost-with-scikit-learn
 https://www.analyticsvidhya.com/blog/2021/10/understanding-transfer-learning-for-deep-learning/
 https://www.geeksforgeeks.org/handwritten-digit-recognition-using-neural-network/
 https://medium.com/analytics-vidhya/want-to-save-and-reuse-a-model-later-d48398584695
+https://www.youtube.com/watch?v=HGwBXDKFk9I
 
 :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: 
 
