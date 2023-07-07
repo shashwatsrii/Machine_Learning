@@ -16,6 +16,9 @@ https://www.analyticsvidhya.com/blog/2021/10/understanding-transfer-learning-for
 https://www.geeksforgeeks.org/handwritten-digit-recognition-using-neural-network/
 https://medium.com/analytics-vidhya/want-to-save-and-reuse-a-model-later-d48398584695
 https://www.youtube.com/watch?v=HGwBXDKFk9I
+https://www.analyticsvidhya.com/blog/2020/02/learn-image-classification-cnn-convolutional-neural-networks-3-datasets/
+https://machinelearningmastery.com/understanding-the-design-of-a-convolutional-neural-network/
+https://hackernoon.com/a-guide-to-scaling-machine-learning-models-in-production-aa8831163846
 
 :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: 
 
