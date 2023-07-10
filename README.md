@@ -8,6 +8,7 @@ Some of the models I implemented were:
 2. Polynomial Regression Model.
 3. Logistic Regression Model.
 4. Artificial Neural Networks.
+5. Convolutional Neural Networks.
 
 Some of the datasets I implemented were:
 1. Salary - Experience Model using Linear Regression.
