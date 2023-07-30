@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=HGwBXDKFk9I
 https://www.analyticsvidhya.com/blog/2020/02/learn-image-classification-cnn-convolutional-neural-networks-3-datasets/
 https://machinelearningmastery.com/understanding-the-design-of-a-convolutional-neural-network/
 https://hackernoon.com/a-guide-to-scaling-machine-learning-models-in-production-aa8831163846
-
+https://theaisummer.com/uwsgi-nginx/
 :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: 
 
 Youtube Channels I referred to :
