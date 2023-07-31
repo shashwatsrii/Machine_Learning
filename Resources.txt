@@ -21,6 +21,7 @@ https://machinelearningmastery.com/understanding-the-design-of-a-convolutional-n
 https://hackernoon.com/a-guide-to-scaling-machine-learning-models-in-production-aa8831163846
 https://theaisummer.com/uwsgi-nginx/
 https://blog.aigents.co/how-to-scale-and-take-machine-learning-models-to-production-9678bbc9a91d
+https://www.analyticsvidhya.com/blog/2019/01/neural-machine-translation-keras/
 :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: 
 
 Youtube Channels I referred to :
